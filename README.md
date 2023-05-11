@@ -6,7 +6,11 @@ Steps:
 2. Then use any choice of code editor to open the python file.
 3. Now you are all set and ready to go!!
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FWTC9YIAgg7Bgdm0k3wRCNC%2FSign-Up-Field%3Ftype%3Ddesign%26node-id%3D9-88%26scaling%3Dmin-zoom%26page-id%3D0%253A1" allowfullscreen></iframe>
+Figma File: https://www.figma.com/community/file/1236110725882235733
+
+Video:
+
+https://github.com/Thanushan0207/Sign-Up-GUI-Python/assets/131554091/6e1314b5-b2da-4721-be87-f28490a7429a
 
 Pictures:
 
